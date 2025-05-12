@@ -1,0 +1,24 @@
+[submodule "base"]
+	path = base
+	url = ../base-port-windows
+	branch = main
+[submodule "common"]
+	path = common
+	url = ../common-port
+	branch = main
+[submodule "graphics"]
+	path = graphics
+	url = ../graphics-port
+	branch = main
+[submodule "graphics3d"]
+	path = graphics3d
+	url = ../graphics3d-opengl-land-port
+	branch = main
+[submodule "imaging"]
+	path = imaging
+	url = ../imaging-port
+	branch = main
+[submodule "user-generation1"]
+	path = user-generation1
+	url = ../../cpp-port/user-generation1
+	branch = main
